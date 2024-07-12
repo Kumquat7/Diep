@@ -1,0 +1,9 @@
+D:\REPOS\IntoTheDiep\bin\Debug\IntoTheDiep.exe.config
+D:\REPOS\IntoTheDiep\bin\Debug\IntoTheDiep.exe
+D:\REPOS\IntoTheDiep\bin\Debug\IntoTheDiep.pdb
+D:\REPOS\IntoTheDiep\obj\Debug\IntoTheDiep.csproj.AssemblyReference.cache
+D:\REPOS\IntoTheDiep\obj\Debug\IntoTheDiep.Properties.Resources.resources
+D:\REPOS\IntoTheDiep\obj\Debug\IntoTheDiep.csproj.GenerateResource.cache
+D:\REPOS\IntoTheDiep\obj\Debug\IntoTheDiep.csproj.CoreCompileInputs.cache
+D:\REPOS\IntoTheDiep\obj\Debug\IntoTheDiep.exe
+D:\REPOS\IntoTheDiep\obj\Debug\IntoTheDiep.pdb
